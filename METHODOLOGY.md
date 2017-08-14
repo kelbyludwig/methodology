@@ -1,5 +1,19 @@
 # Methodology
 
+## Generally Applicable
+
+### Race Conditions
+
+### File Upload, File Download
+
+### Data Stores
+
+#### (No)SQL injection
+
+#### Message Queuing Systems, Caches
+
+#### Directory Services, LDAP, AD
+
 ## Web Applications and Web Services
 
 ### Discovery
@@ -71,9 +85,10 @@
 
 * [Breaking XSS Mitigations via Script Gadgets](https://2017.appsec.eu/presos/Hacker/Don%E2%80%99t%20trust%20the%20DOM%20Bypassing%20XSS%20mitigations%20via%20Script%20gadgets%20-%20Sebastian%20Lekies,%20Krzystof%20Kotowicz%20and%20Eduardo%20Vela%20Nava%20-%20OWASP_AppSec-Eu_2017.pdf)
 
+### Server-Side Template Injection
 
 
-
+### Miscellaneous 
 
 ## Inspiration and Ideas
 
